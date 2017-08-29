@@ -1,4 +1,4 @@
-#from azureml.datacollector import ModelDataCollector
+from azureml.datacollector import ModelDataCollector
 import pickle
 import sys
 import os
